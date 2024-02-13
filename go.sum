@@ -1,0 +1,8 @@
+github.com/buger/jsonparser v1.1.1 h1:2PnMjfWD7wBILjqQbt530v576A/cAbQvEW9gGIpYMUs=
+github.com/buger/jsonparser v1.1.1/go.mod h1:6RYKKt7H4d4+iWqouImQ9R2FZql3VbhNgx27UK13J/0=
+github.com/goark/errs v1.3.2 h1:ifccNe1aK7Xezt4XVYwHUqalmnfhuphnEvh3FshCReQ=
+github.com/goark/errs v1.3.2/go.mod h1:ZsQucxaDFVfSB8I99j4bxkDRfNOrlKINwg72QMuRWKw=
+github.com/goark/fetch v0.4.1 h1:Y59g9sAdgqjPS7UADdLIoQGRxJE1WMo5ixlJi/ZcCfc=
+github.com/goark/fetch v0.4.1/go.mod h1:umZxLIJHa15J8EQSp5zft1dHDv0VGwmQL6pOfaJ60FY=
+github.com/goark/pa-api v0.12.4 h1:rwWVxmYjqBFQIlS3ql7wQwUt7mmWzKvR8ZIPogkdqiA=
+github.com/goark/pa-api v0.12.4/go.mod h1:vqgJuP/nbxsin5H9kBPOa9KOKBNgEvksyEg5BlEk23g=
