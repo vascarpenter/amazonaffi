@@ -16,11 +16,11 @@
 
 - 実行方法 ASINを渡す
 ```
-./amazonaffi B018WNIBJS`
+./amazonaffi B018WNIBJS
   <a href="https://www.amazon.co.jp/dp/B018WNIBJS/?tag=gikohadiary-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41V7ZyqoirL._SL75_.jpg" alt="B018WNIBJS" border="0" />
 <br>エレコム USB ゲーミングマウス 【DUX】 有線 14ボタン 3500dpi ハードウェアマクロ対応 M-DUX50BK</a>
 ```
 
 # todo
-- 複数ASIN渡すと<td>してくれるやつ
+- 複数ASIN渡すと`<td>`とかしてくれるやつ
 
